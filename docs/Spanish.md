@@ -32,7 +32,9 @@
 
 #### Bravery
 :   
-    - **to the winner go the spoils**, **he who dares, wins**
+    - **to the winner go the spoils**
+    - **he who dares, wins**
+        - quien no arriesga, no gana
 
 #### Failure
 :   
@@ -49,6 +51,15 @@
         - poner el carro delante del caballo
         - empezar la casa por el tejado
     - el que persevera alcanza ([Mateo 24:13](https://www.biblegateway.com/passage/?search=Mateo+24%3A13&version=RVR1995))
+
+#### Resourcefulness
+:   
+    - **where there's a will there's a way**
+        - [cuando se quiere se puede](https://www.instagram.com/p/Cv75rFxuq2t/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+
+#### Temporality
+:   
+    - todo viene y todo va
 
 ## Grammar
 
@@ -73,7 +84,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 - **agotado** exhausted
 - [**antojarse**](https://www.asale.org/damer/antojarse) to get a craving or feel an urge for something: [*Más que un 69, se **me ant0ja** un 42, yo en 4 y tu en 2*](https://www.instagram.com/p/CtC8d7dPQv1/)
 - **antojo** whim, craving: _Hablas como una persona que solo quieres usar los demás ah tu **antojo** y las cosas no son así_
-
+- [**arrayano**](https://www.asale.org/damer/arrayano) Dominican-Haitian: referring to someone with one Haitian and one Dominican parent
 
 #### B
 
@@ -98,6 +109,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 - [**cocotazo**](https://diccionariolibre.com/definicion/cocotazo) a smack on the head
 - [**clavarse**](https://www.asale.org/damer/clavar) to have sex: [*Cuando te veniste 3 veces pero él te la sigue **clavando** como si nada*](https://www.instagram.com/p/CtPGcwvLY97/); [*Esta triste por que no ha **clavado***](https://www.instagram.com/p/CtC5J6fPagP/)
 - **cogerse la llamada** to pick up a phone call: _**Cogeme la llamada** que tú eres mía todavía_
+- **como rayos** "how in the world", "how the hell": *Y **cómo rayos** tú te comes esta vaina amarga yo detesto esa fruta*
 - **dar cotorra** to flirt with someone: [_Yo, viendo como un pana le está **dando cotorra** a la tipa que me estoy comiendo toda las noche_](https://www.instagram.com/reel/CqBl6fkDQyD)
 - [**cría**](https://www.asale.org/damer/cr%C3%ADa): [*Mi novia platicándome su día y diciendo todo lo que hizo.. Yo pensando en las **crías** que le voy a hacer cuando nos casemos*](https://www.instagram.com/reel/CuIm_yaOoWR/)
 - **cualto** money, payment
@@ -356,10 +368,14 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
     Female genitalia are referred to variously as [**toto**](#toto), [**popola**](#popola), or [**creta**](#creta).
     A bulging vagina is referred to as a [**maco**](https://diccionariolibre.com/definicion/maco) (lit. "frog").
 
+#### Travel
+:   
+    **hacer escala** have a stopover: *irhago escala en Orlando*
+
 #### Violence
 :   
     Knife attacks are commonly reported in the news.
-    Knife wounds are variously termed **puñaladas** ([*hombre hiere a su pareja de una **puñalada***](https://youtu.be/-4FFh-q3MDY?t=111)), **cuchilladas** ([*una mujer se encuentra grave luego de ser atacada **cuchilladas***](https://youtu.be/-4FFh-q3MDY?t=111)) or **estocadas** ([*ella recibió una **estocada** a manos de su pareja*](https://youtu.be/-4FFh-q3MDY?t=111)).
+    Knife wounds are variously termed **puñaladas** ([_hombre hiere a su pareja de una **puñalada**_](https://youtu.be/-4FFh-q3MDY?t=111)), **cuchilladas** ([_una mujer se encuentra grave luego de ser atacada **cuchilladas**_](https://youtu.be/-4FFh-q3MDY?t=111)) or **estocadas** ([_ella recibió una **estocada** a manos de su pareja_](https://youtu.be/-4FFh-q3MDY?t=111)).
     
 #### Weather
 :   

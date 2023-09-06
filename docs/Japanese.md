@@ -1,19 +1,12 @@
 # Japanese
 
-NO and KOTO are both used to [nominalize](https://www.japanesepod101.com/lesson/intermediate-questions-answered-by-hiroko-5-difference-between-koto-and-no/) clauses and verbs in different contexts.
+!!! info "Nominalizing clauses and verbs with NO and KOTO"
 
+    NO and KOTO are both used to [nominalize](https://www.japanesepod101.com/lesson/intermediate-questions-answered-by-hiroko-5-difference-between-koto-and-no/) clauses and verbs in different contexts.
 
-``` title="no"
-友達が話しているのが聞こえました。# (1)
-```
+    - **友達が話しているのが聞こえました。** "I heard my friends talking."
+    - **今年の目標は、試験に合格することです。** "My goal this year is to pass the exam."
 
-1. "I heard my friends talking."
-
-``` title="koto"
-今年の目標は、試験に合格することです。 # (1)
-```
-
-1. "My goal this year is to pass the exam."
 
 #### IME
 :   
