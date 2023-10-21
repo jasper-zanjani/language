@@ -237,6 +237,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 
 #### S
 
+- **saldo** Internet: _una relación sin amor es como un celular sin **saldo**...solo sirve para jugar_
 - **se fue la luz** "end of discussion"
 - **shi** (also **chi**) tisk ([dental click](https://en.wikipedia.org/wiki/Dental_click)), in DR an expression of tenderness: _yo no le digo **shi** a nadie, lo sient. soy un ser oscuro._
 
