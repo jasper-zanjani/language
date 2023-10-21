@@ -132,6 +132,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 #### E
 
 - **empapado** soaked, wet (cf. **mojado**)
+- [ **encojonarse** ](https://www.asale.org/damer/encojonar) become angry, furious: _me imagino que ella **se encojono** pila porque no te dejaste chapiar_
 - **enterarse** to find out
 - **entre dos** _estar ~_ to be feeling poorly
 - **estuche** case, i.e. "contact lens case"
