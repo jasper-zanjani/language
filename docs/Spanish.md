@@ -232,6 +232,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 
 - **rebajar**{ #rebajar } to lose weight
 - **regañar** to scold, chastise, argue with, or complain about a person: _No me **regañes** a mi nieto, él es un angelito_
+- **rendirse las cuentas a alguien (que otro)** (regarding a relationship) to begin to favor someone (over another): _Estaba viendo una entrevista y era una chica que comenzó a gustarle otra mujer pero tenía novio y el novio le permitió salir con la otra chica porque quería un trío, entonces luego se dio cuenta que la tipa **le rendía las cuentas a la mujer que a él** y por eso la termino_
 - **romper** to exceed expectations, to draw attention (?)
 - [**rulay**](https://www.urbandictionary.com/define.php?term=Rulay){: #rulay } relaxed
 
