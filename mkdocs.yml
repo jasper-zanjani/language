@@ -3,8 +3,8 @@ site_url: https://jasper-zanjani.github.io/language
 site_dir: site
 theme:
   name: material
-  favicon: img/brain.png
-  logo: img/brain.png
+  favicon: img/logo.png
+  logo: img/logo.png
   palette:
     scheme: slate
     primary: white

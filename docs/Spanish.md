@@ -28,38 +28,37 @@
 ## Phrases
 
 - **from now on** de aquí en adelante
-- **lay the foundations** [sentar las bases](https://www.linguee.com/english-spanish/translation/lay+the+foundations.html)
+- **just in case** por si acaso
 
-#### Bravery
-:   
-    - **to the winner go the spoils**
-    - **he who dares, wins**
-        - quien no arriesga, no gana
+- Bravery
+    - ? to the winner go the spoils
+    - **quien no arriesga, no gana** he who dares, wins
 
-#### Failure
-:   
+- Chaos
+    - **cuando me levanto por la noche para beber agua y las cosas se salen un poco de control** "when I wake up at night to drink water and things **get out of hand**"
+
+- Failure
     - [**quedarse sin el pan y sin el queso**](https://www.wordreference.com/es/en/translation.asp?spen=quedarse%20sin%20el%20pan%20y%20sin%20el%20queso) to end up empty-handed
 
-#### Gluttony
-:   
+- Gluttony
     - [**comer como una lima nueva**](https://12y2.com/2013/comer-mas-que-una-lima-nueva/)
 
-#### Patience
-:   
-    - **you have to run before you can walk**
-    - **putting the cart before the horse**
-        - poner el carro delante del caballo
-        - empezar la casa por el tejado
-    - el que persevera alcanza ([Mateo 24:13](https://www.biblegateway.com/passage/?search=Mateo+24%3A13&version=RVR1995))
+- Karma
+    - **lo que da vueltas vuelve**, **lo que se siembra, se cosecha**, **todo aquello que se da mas tarde se recibe**, **uno recibe lo que da**: what goes around, comes around
 
-#### Resourcefulness
-:   
-    - **where there's a will there's a way**
-        - [cuando se quiere se puede](https://www.instagram.com/p/Cv75rFxuq2t/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+- Patience
+    - [**sentar las bases**](https://www.linguee.com/english-spanish/translation/lay+the+foundations.html) to lay the foundations
+    - **poner el carro delante del caballo** to put the cart before the horse
+        - **empezar la casa por el tejado**
+    - **el que persevera alcanza** ([Mateo 24:13](https://www.biblegateway.com/passage/?search=Mateo+24%3A13&version=RVR1995))
+    - ? you have to walk before you run
+    - **más vale pájaro en mano que ciento volando** a bird in the hand is worth two in the bush
 
-#### Temporality
-:   
-    - todo viene y todo va
+- Resourcefulness
+    - [**cuando se quiere se puede**](https://www.instagram.com/p/Cv75rFxuq2t/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) where there's a will there's a way
+
+- Temporality
+    - **todo viene y todo va**
 
 ## Grammar
 
@@ -73,7 +72,8 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 - bajarse: _Cuando es tu regla? Ya **se me bajo**._
 - dolerse: _**me duele** la cabeza_
 - olvidarse: *por si **se te olvida** el español, 2 cucharadas todos los días*
-- salirse: [*casi **se le sale** el alma*](https://www.instagram.com/reel/CtsISizgMVl)
+- salirse: [* casi **se le sale** el alma *](https://www.instagram.com/reel/CtsISizgMVl)
+- complicarse: ***Se me complicó** algo, no me gusta quedar mal da vergüenza*
 
 ## Dominican vocabulary
 
