@@ -217,6 +217,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 - **tirar piropos** to use pick-up lines: _Me **tiran piropos** pero no se como se llama a eso_
 - **planta**{: #planta } compliment for a woman: ***planta** de mujer*
 - [**poloché**](https://www.asale.org/damer/poloche){: #poloche } t-shirt
+- [**polera**](https://www.asale.org/damer/polera) t-shirt
 - **polvo** a round of sex ending in male ejaculation: _Un **polvo** aquí y mínimio se me reinicia la vida_; _Mija edúcate que un viejito que te de 1500 por **polvo** no es un suggar daddy_
 - **popola** pussy (cf. [**toto**](#toto), [**creta**](#creta))
 - **porrito** joint
