@@ -390,3 +390,21 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
     Sources:
 
     - [YouTube: La capital se vuelve un caos por inundaciones urbanas](https://youtu.be/-Qpvt_EONTY)
+
+## Audio
+
+!!! info "Marianela"
+
+    [Marianela]: https://contacts.google.com/u/0/person/c6192585389248555714
+
+    <audio controls="controls"><source type="audio/ogg" src="Audio/AUD-20230915-WA0008.ogx"></source></audio>
+
+    <audio controls="controls"><source type="audio/ogg" src="Audio/AUD-20230915-WA0009.ogx"></source></audio>
+
+    <audio controls="controls"><source type="audio/ogg" src="Audio/AUD-20230915-WA0010.ogx"></source></audio>
+    
+    [Marianela][Marianela] complains about her sister (9/15)
+
+
+    
+
