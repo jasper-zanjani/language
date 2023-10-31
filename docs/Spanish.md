@@ -163,7 +163,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 #### L
 
 - **laja**{: #laja } something highly used and worn out, i.e. _estoy buscando una laja de esas_
-- **loquiar** to hang out, pass the time: *Solo [vamos] a pasarnos el rato juntas **loquiando***
+- **loquiar** to hang out, pass the time: _Solo [vamos] a pasarnos el rato juntas **loquiando**_
 
 #### Ll
 :   
@@ -199,7 +199,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 
 #### P
 
-- [**pajearse**](https://diccionariolibre.com/definicion/pajearse) to masturbate (see also [tocación](#tocacion))
+- [**pajearse**](https://diccionariolibre.com/definicion/pajearse) to masturbate (see also [tocación](#tocacion)): _Paola **se pajió** con pilón de la cocina y ahora el Toto le sabe a ajo_
 - **pana** [friend](https://diccionariolibre.com/definicion/pana): [_Yo, viendo como un **pana** le está dando cotorra a la tipa que me estoy comiendo toda las noche_](https://www.instagram.com/reel/CqBl6fkDQyD)
 - **papa de la barriga**
 - **paquetero**{: #paquetero } a [liar](https://www.asale.org/damer/paquetero), braggart
@@ -296,14 +296,21 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 
 #### Exercise
 :   
+    - **bombeado** pumped up: _Cuando tu pecho todavia está **bombeado** desde el gimnasio y quieres que todos lo vean_
     - **calentar** to warm up
+    - **mamado** well-built, jacked, in-shape (colloq.)
+
+#### Fruit
+:   
+    - **carambola** star fruit
+    - **chinola** passion fruit
+
 
 #### Hair
 :   
-    Hair types:
-
-    - **rizado** curly
-    - **lacio** straight
+    Hair can be **rizado** (curly) or **lacio** (straight).
+    Women in DR can be typically seen wearing the **redecilla**, however this is only used after straightening - **alisar** - the hair.
+    A typical bonnet is referred to as a **gorra** ("hat").
 
 #### Insults
 :   
@@ -368,14 +375,14 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
     When a woman currently has her period she uses **bajarse**{: #bajarse }: _Cuando es tu regla? Ya se me bajo._
 
     Contraceptives are called **anticonceptivos**.
-    The morning-after pill is refered to as **la pastilla ...** or simply "la pastilla".
+    The morning-after pill is refered to as **la pastilla del dia siguiente** or simply "la pastilla".
 
-    Female genitalia are referred to variously as [**toto**](#toto), [**popola**](#popola), or [**creta**](#creta).
+    Female genitalia are referred to variously as [**toto**](#toto), [**popola**](#popola), [**creta**](#creta), or in cibaeño **semilla**.
     A bulging vagina is referred to as a [**maco**](https://diccionariolibre.com/definicion/maco) (lit. "frog").
 
 #### Travel
 :   
-    **hacer escala** have a stopover: *irhago escala en Orlando*
+    **hacer escala** have a stopover: _**hago escala** en Orlando_
 
 #### Violence
 :   
