@@ -359,7 +359,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 #### Sex
 :   
     The act of sex itself is referred to by many verbs colloquially: [**clavarse**](#clavarse), **coger**, **comer**, **follar**, [**majar**](#majar), [**mangar**](https://www.asale.org/damer/mangar), [**rapar**](https://www.asale.org/damer/rapar), [**singar**](https://www.asale.org/damer/singar), and more euphemistically **hacer travesuras**, **tener relaciones**.
-    Various forms of these verbs can refer to the act of sex as well: **rapidín** ("quickie"), **cogidón**, etc.
+    Various forms of these verbs can refer to the act of sex as well: **rapidín**, **rapadita** ("quickie"), **cogidón**, etc.
 
     A naked person is described as **encuerado**.
 
