@@ -159,6 +159,10 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 - **jablador** (also *hablador*) liar; boastful or braggart
 - [**josear**](https://www.wordsense.eu/josear/#Spanish){: #josear } (also [_josiar_](https://diccionariolibre.com/definicion/Josiar), _jociar_, from English "to hustle")
 - [**jeva**](https://diccionariolibre.com/definicion/jeva) woman, partner
+- **jumo** drunkenness
+    - **tener ~** to be drunk: _¡Wow! Anoche, él **tenía un tremendo jumo**_
+    - **estar con ~** to be drunk: _Tú te vas a reír mucho conmigo el día que me veas **con un jumó**_
+    - **darse ~** to become drunk: _que **jumo me di** ayer en el bar_; _Como **me voy a dar ese jumo** con los panas que voy a parar ajumao_
 
 #### L
 
