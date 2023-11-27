@@ -187,7 +187,7 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 
 #### Coffee
 :   
-    Coffee is traditionally prepared using a [moka pot](https://en.wikipedia.org/wiki/Moka_pot), a stovetop espresso coffee maker, in DR colloquially called [**la greca**](https://es.wikipedia.org/wiki/Cafetera_moka).
+    Coffee is traditionally prepared using a [moka pot](https://en.wikipedia.org/wiki/Moka_pot), a stovetop espresso coffee maker, in DR colloquially called [**la greca**](https://es.wikipedia.org/wiki/Cafetera_moka) in DR.
 
 #### Counterfactuals
 :   
