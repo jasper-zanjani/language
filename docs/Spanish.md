@@ -80,197 +80,99 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 *[SFM]: San Francisco de Macoris
 
 #### A
-
-- **agotado** exhausted
-- [**antojarse**](https://www.asale.org/damer/antojarse) to get a craving or feel an urge for something: [*Más que un 69, se **me ant0ja** un 42, yo en 4 y tu en 2*](https://www.instagram.com/p/CtC8d7dPQv1/)
-- **antojo** whim, craving: _Hablas como una persona que solo quieres usar los demás ah tu **antojo** y las cosas no son así_
-- [**arrayano**](https://www.asale.org/damer/arrayano) Dominican-Haitian: referring to someone with one Haitian and one Dominican parent
+:   
+    --8<-- "includes/Spanish/a.md"
 
 #### B
-
-- [**bajarle dos**](https://es.wiktionary.org/wiki/bajarle_dos) lower the intensity or speed of something
-- **de barde** (corruption of *de balde*) for free, for nothing: _singar **de barde**_; _lo mandaste **de barde** porque no la escucharé_
-- **baquear** _Quién te tá **baqueando** ese poloché?_
-- **hacer berrinche** throw a tantrum
-- **boca abajo** prone
-- **dar boche** severely reprimand someone verbally: _Cuando te enojas empieza a **dar boche**_
-- **brindar**{: #brindar } to present, offer
-- [ **bulla** ](https://diccionariolibre.com/definicion/bulla) noise: _Hay mucha **bulla** dond estoy_
-- **bultero**{: #bultero } [flaky](https://casadecampoliving.com/dominican-english-dictionary/), someone who makes plans but does not follow through; a braggart, someone who exaggerates personal accomplishments
+:   
+    --8<-- "includes/Spanish/b.md"
 
 #### C
-
-- **celar** (from _celoso_, cf. _estar con celos_) to become jealous : [*Yo con celos, pero chisme es chisme*](https://www.instagram.com/p/Csols7kuBgJ/); _A veces me digo "no seas celosa Tatiana" pero como no me llamo Tatiana pues **celo** cuando me da mi gana_
-- **chancear** [give somebody a chance](https://www.spanishdict.com/translate/chancear), [court](https://diccionariolibre.com/definicion/chancear) someone
-- [**chavo**](https://www.asale.org/damer/chavo) youth, young man (also  **chava** for young woman)
-- [**cherchoso**](https://www.asale.org/damer/cherchoso) teasing or mocking person
-- **chin**{: #chin } a [little bit](https://diccionariolibre.com/definicion/Chin)
-- **chulo**{: #chulo }: very handsome; a man who is knowingly in a relationship with a woman who is a prostitute, and who is supported by her
-- **chuqui** to be [irritable, angry](https://wikidominicana.com/chucky/) (also _chucky_); **andar ~ en la calle** to party in the streets
-- [**cocotazo**](https://diccionariolibre.com/definicion/cocotazo) a smack on the head
-- [**clavarse**](https://www.asale.org/damer/clavar) to have sex: [*Cuando te veniste 3 veces pero él te la sigue **clavando** como si nada*](https://www.instagram.com/p/CtPGcwvLY97/); [*Esta triste por que no ha **clavado***](https://www.instagram.com/p/CtC5J6fPagP/)
-- **cogerse la llamada** to pick up a phone call: _**Cogeme la llamada** que tú eres mía todavía_
-- **como rayos** "how in the world", "how the hell": *Y **cómo rayos** tú te comes esta vaina amarga yo detesto esa fruta*
-- **dar cotorra** to flirt with someone: [_Yo, viendo como un pana le está **dando cotorra** a la tipa que me estoy comiendo toda las noche_](https://www.instagram.com/reel/CqBl6fkDQyD)
-- [**cría**](https://www.asale.org/damer/cr%C3%ADa): [*Mi novia platicándome su día y diciendo todo lo que hizo.. Yo pensando en las **crías** que le voy a hacer cuando nos casemos*](https://www.instagram.com/reel/CuIm_yaOoWR/)
-- **cualto** money, payment
-- **cueriar** (from _cuero_ "prostitute") to prostitute oneself: _Crees que si estuviera **cueriando** yo estuviera en olla_
-- **cuernos**; [**pegar ~**](https://diccionariolibre.com/definicion/pegar-cuernos), [**ponerse ~**](https://spanish.stackexchange.com/questions/17904/why-in-spanish-putting-horns-means-to-cheat-your-partner) to cheat on a partner: *cuando te den ganas de **pegar un cuernito** tirame*
-- **cara de culo** a serious or grave face (cf. "resting bitch face")
-
+:   
+    --8<-- "includes/Spanish/c.md"
 
 #### D
-
-- [**dame banda**](https://casadecampoliving.com/dominican-english-dictionary-dar-banda/) expression used to end the current topic of discussion out of exasperation: "leave me alone, do what you want"
-- **dar mente a algo** to mind, worry about something: _Pero no le **de mente** a eso bebé_
-- **de día** _estar ~_ to be daytime: _**Está de día** en tu país?_
-- **desodorante** deodorant
-- [**diache**](https://www.asale.org/damer/%C2%A1diache!), [**diañe**](https://www.asale.org/damer/%C2%A1dia%C3%B1e!) (euphemism for *diablo*) expression of surprise 
-- **diligencia** _hacer ~_ when said by a woman, euphemism for prostitution
-- **domingo 7**{: #domingo-7 } pregnancy outside of marriage, especially one abandoned by the father: _no me dejes con un **domingo 7** y te vallas por ray jjj_
+:   
+    --8<-- "includes/Spanish/d.md"
 
 #### E
+:   
+    --8<-- "includes/Spanish/e.md"
 
-- **empapado** soaked, wet (cf. **mojado**)
-- [ **encojonarse** ](https://www.asale.org/damer/encojonar) become angry, furious: _me imagino que ella **se encojono** pila porque no te dejaste chapiar_
-- **enterarse** to find out
-- **entre dos** _estar ~_ to be feeling poorly
-- **estuche** case, i.e. "contact lens case"
 
 #### F
+:   
+    --8<-- "includes/Spanish/f.md"
 
-- [**el final**](https://www.que-quiere-decir.com/el-final/) the greatest, worst, most superlative: _tu eres **el final**_
-- **flow**{: #flow } swag, style, attractive manner of dress: *mangar este **flow***
-- **fresco** a person who is cheeky or rude, typically regarding sexual topics: *lo bloqué por **frescos***
 
 #### G
+:   
+    --8<-- "includes/Spanish/g.md"
 
-- dar **galleta** [to slap the face](https://www.urbandictionary.com/define.php?term=galleta)
-- **golo golo**{: #golo-golo } the sound of deep throat ("gluk gluk"): [*Yo cuando el novio mio me pregunta cm le voy a pagar lo que me pidio por Shein*](https://www.instagram.com/p/CtC413Kraa7/)
-- **guayar** to bump, grind
-- **poner guevo** to do something bad
 
 #### H
+:   
+    --8<-- "includes/Spanish/h.md"
 
-- **hacerse caso**: *si no tienen dinero no **les hagas caso**, ellos tampoco **te harían caso** si fueras fea*
 
 #### J
-
-- **jablador** (also *hablador*) liar; boastful or braggart
-- [**josear**](https://www.wordsense.eu/josear/#Spanish){: #josear } (also [_josiar_](https://diccionariolibre.com/definicion/Josiar), _jociar_, from English "to hustle")
-- [**jeva**](https://diccionariolibre.com/definicion/jeva) woman, partner
-- **jumo** drunkenness
-    - **tener ~** to be drunk: _¡Wow! Anoche, él **tenía un tremendo jumo**_
-    - **estar con ~** to be drunk: _Tú te vas a reír mucho conmigo el día que me veas **con un jumó**_
-    - **darse ~** to become drunk: _que **jumo me di** ayer en el bar_; _Como **me voy a dar ese jumo** con los panas que voy a parar ajumao_
+:   
+    --8<-- "includes/Spanish/j.md"
 
 #### L
+:   
+    --8<-- "includes/Spanish/l.md"
 
-- **laja**{: #laja } something highly used and worn out, i.e. _estoy buscando una laja de esas_
-- **loquiar** to hang out, pass the time: _Solo [vamos] a pasarnos el rato juntas **loquiando**_
 
 #### Ll
 :   
-  - **llevarse**: _son 17 que **me llevas**_ "You're 17 [years] older than me"; *y **llevas** mucho sin tener relaciones?*
+    --8<-- "includes/Spanish/ll.md"
 
 #### M
+:   
+    --8<-- "includes/Spanish/m.md"
 
-- **macorisano** someone from San Francisco de Macoris
-- [**majar**](https://www.asale.org/damer/majar){: #majar } to have sex with someone: [*¿Ustedes se quitan los lentes pa' **majar**?*](https://www.instagram.com/p/CuFq5ROPTrG/)
-- **mangar**{: #mangar } to pinch, grab, obtain; [have sexual relations](https://diccionariolibre.com/definicion/mangar) with someone: **mangue** lover, friend with benefits
-- [ **mimir** ](https://diccionariolibre.com/definicion/mimir) to sleep
-- **molote** mob
-- [**estar moca**](https://diccionariolibre.com/definicion/moca) alert, suspicious
-- [**moño**](https://diccionariolibre.com/definicion/mo%C3%B1o){: #moño } hair, especially unkempt, messy, or ugly hair: [*Te vi sin extensiones y tenias el **moñito** como el nudito de los salami*](https://www.facebook.com/esperanza.paredesgomez.3/posts/pfbid02F22pDhKgT5HW9UC3RRix5jtxf9MD32CsawkRUmocLaD8c6wcH3hUYjzank4Rn4xFl); **~ postizo** hair extension
-- **morbo** ??
-- **morra** girl
-- **motoconcho**{: #motoconcho } small [motorcycle](https://www.urbandictionary.com/define.php?term=motoconcho) used for taxi service
 
 #### N
+:   
+    --8<-- "includes/Spanish/n.md"
 
-- **nama**{: #nama } only, merely, just (preverbal)
-    - _Me quiere preña?<br/>Pa que salga bonito<br/>Tu no lo va a mantener ni naa<br/>**Nama** e paa que salga peluche_
-- [**media naranja**](https://diccionariolibre.com/definicion/media-naranja) soulmate: [*No soy la **media naranja** de nadie, pero sí soy la fruta prohibida de muchos...*](https://www.facebook.com/2333009780064701/photos/a.2333019670063712/6528539527178351/)
-- **nevera** refrigerator
-- **ni modo** "no way": _**ni modo** que voy a decir_
-- **nina**{: #nina } (_ni nada_) nothing more, nothing at all
 
 #### O
-
-- hacer **oficio** to do the chores or housework, to clean up: _**hice oficio** en la casa_
-- [**olla**](https://www.asale.org/damer/olla) [ **estar en ~** ](https://diccionariolibre.com/definicion/Olla) to be poor, penniless, or broke: _Crees que si estuviera cueriando yo **estuviera en olla**_; [Yo, cuando veo una gente que siempre **está en olla** diciendo mañana es viernes y el cuerpo lo sabe](https://www.instagram.com/reel/CsrCgjJtfs0/?utm_source=ig_web_copy_link)
-- **¡ay ombe!** expression of dismay
+:   
+    --8<-- "includes/Spanish/o.md"
 
 #### P
+:   
+    --8<-- "includes/Spanish/p.md"
 
-- [**pajearse**](https://diccionariolibre.com/definicion/pajearse) to masturbate (see also [tocación](#tocacion)): _Paola **se pajió** con pilón de la cocina y ahora el Toto le sabe a ajo_
-- **pana** [friend](https://diccionariolibre.com/definicion/pana): [_Yo, viendo como un **pana** le está dando cotorra a la tipa que me estoy comiendo toda las noche_](https://www.instagram.com/reel/CqBl6fkDQyD)
-- **papa de la barriga**
-- **paquetero**{: #paquetero } a [liar](https://www.asale.org/damer/paquetero), braggart
-- **parar** to end up in a place without intending to do so
-- **pariguayo** [lame guy](https://diccionariolibre.com/definicion/Pariguayo) who can't get girls
-- **pasola** [scooter](https://diccionariolibre.com/definicion/pasola)
-- [**patana**](https://www.asale.org/damer/patana) semi, tractor-trailer
-- **pedazo** place, corner, or neighborhood of a city
-- **peluché** pretty, attractive
-    - _Me quiere preña?<br/>Pa que salga bonito<br/>Tu no lo va a mantener ni naa<br/>Nama e paa que salga **peluche**_
-- **perico** cocaine
-- [**pica pollo**](https://diccionariolibre.com/definicion/pica-pollo) fried chicken
-- [**picadera**](https://www.asale.org/damer/picadera) snack
-- **pique** (**estar con ~**, **tener ~**) to be angry or upset: _estoy con **pique**_
-- **tirar piropos** to use pick-up lines: _Me **tiran piropos** pero no se como se llama a eso_
-- **planta**{: #planta } compliment for a woman: ***planta** de mujer*
-- [**poloché**](https://www.asale.org/damer/poloche){: #poloche } t-shirt
-- [**polera**](https://www.asale.org/damer/polera) t-shirt
-- **polvo** a round of sex ending in male ejaculation: _Un **polvo** aquí y mínimio se me reinicia la vida_; _Mija edúcate que un viejito que te de 1500 por **polvo** no es un suggar daddy_
-- **popola** pussy (cf. [**toto**](#toto), [**creta**](#creta))
-- **porrito** joint
-- [**preña**](https://diccionariolibre.com/definicion/pre%C3%B1a) pregnant (from English "pregnant"); **preñar** to impregnate: _Me quiere **preña**?_
-- [**tirar puya**](https://diccionariolibre.com/definicion/tirar-puyas) to be indirect with another person
 
 #### Q
+:   
+    --8<-- "includes/Spanish/q.md"
 
-- [**quillarse**](https://diccionariolibre.com/definicion/quillarse) to become annoyed, bothered, angry
 
 #### R
+:   
+    --8<-- "includes/Spanish/r.md"
 
-- **rebajar**{ #rebajar } to lose weight
-- **regañar** to scold, chastise, argue with, or complain about a person: _No me **regañes** a mi nieto, él es un angelito_
-- **rendirse las cuentas a alguien (que otro)** (regarding a relationship) to begin to favor someone (over another): _Estaba viendo una entrevista y era una chica que comenzó a gustarle otra mujer pero tenía novio y el novio le permitió salir con la otra chica porque quería un trío, entonces luego se dio cuenta que la tipa **le rendía las cuentas a la mujer que a él** y por eso la termino_
-- **resaca** hangover
-- **romper** to exceed expectations, to draw attention (?)
-- [**rulay**](https://www.urbandictionary.com/define.php?term=Rulay){: #rulay } relaxed
 
 #### S
-
-- **saldo** Internet: _una relación sin amor es como un celular sin **saldo**...solo sirve para jugar_
-- **se fue la luz** "end of discussion"
-- **shi** (also **chi**) tisk ([dental click](https://en.wikipedia.org/wiki/Dental_click)), in DR an expression of tenderness: _yo no le digo **shi** a nadie, lo sient. soy un ser oscuro._
+:   
+    --8<-- "includes/Spanish/s.md"
 
 #### T
+:   
+    --8<-- "includes/Spanish/t.md"
 
-- **teteo**{: #teteo } [party](https://diccionariolibre.com/definicion/teteo), (cf. **tetear**)
-- **tigueraje** slang; [assertiveness](https://diccionariolibre.com/definicion/tigueraje)
-- **tiguere** a streetwise and [capable guy](https://diccionariolibre.com/definicion/tiguere); guy, dude (usage is similar to [vaina](#vaina) but with people)
-- **tirarse**{: #tirarse } to send a text message: "Hay que tirarme por privado."
-- hacer **travesuras** to have sex
-- **pasar trote** to go through a great [ordeal](https://diccionariolibre.com/definicion/trote), to suffer
-- [**tocación**](https://www.asale.org/damer/tocaci%C3%B3n){: #tocacion } masturbation
-- [**tollo**](https://diccionariolibre.com/definicion/tollo) a mismanaged mess due to incompetence: _el dia de Carnaval en Monte Plata es un **tollo**_
-- **topar** to run into someone
-- **toto**{: #toto } pussy (cf. **creta**{: #creta })
 
 #### V
-
-- **vaca** *ven acá*
-- **vaina** stuff, thing; whatever; etc
-- **vale** well, quite: _yo me sentí vale rara_ "I felt pretty weird"
-- **votar** to stop liking someone: *Tengo que mantenerme para que no me **votes***
+:   
+    --8<-- "includes/Spanish/v.md"
 
 #### Y
-
-- **y eso?** "why?"
-
+:   
+    --8<-- "includes/Spanish/y.md"
 
 ## Themes
 
