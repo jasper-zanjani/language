@@ -1,0 +1,10 @@
+- **teteo**{: #teteo } [party](https://diccionariolibre.com/definicion/teteo), (cf. **tetear**)
+- **tigueraje** slang; [assertiveness](https://diccionariolibre.com/definicion/tigueraje)
+- **tiguere** a streetwise and [capable guy](https://diccionariolibre.com/definicion/tiguere); guy, dude (usage is similar to [vaina](#vaina) but with people)
+- **tirarse**{: #tirarse } to send a text message: "Hay que tirarme por privado."
+- hacer **travesuras** to have sex
+- **pasar trote** to go through a great [ordeal](https://diccionariolibre.com/definicion/trote), to suffer
+- [**tocación**](https://www.asale.org/damer/tocaci%C3%B3n){: #tocacion } masturbation
+- [**tollo**](https://diccionariolibre.com/definicion/tollo) a mismanaged mess due to incompetence: _el dia de Carnaval en Monte Plata es un **tollo**_
+- **topar** to run into someone
+- **toto**{: #toto } pussy (cf. **creta**{: #creta })

@@ -1,0 +1,6 @@
+- **nama**{: #nama } only, merely, just (preverbal)
+    - _Me quiere preña?<br/>Pa que salga bonito<br/>Tu no lo va a mantener ni naa<br/>**Nama** e paa que salga peluche_
+- [**media naranja**](https://diccionariolibre.com/definicion/media-naranja) soulmate: [*No soy la **media naranja** de nadie, pero sí soy la fruta prohibida de muchos...*](https://www.facebook.com/2333009780064701/photos/a.2333019670063712/6528539527178351/)
+- **nevera** refrigerator
+- **ni modo** "no way": _**ni modo** que voy a decir_
+- **nina**{: #nina } (_ni nada_) nothing more, nothing at all

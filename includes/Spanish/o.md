@@ -1,0 +1,3 @@
+- hacer **oficio** to do the chores or housework, to clean up: _**hice oficio** en la casa_
+- [**olla**](https://www.asale.org/damer/olla) [ **estar en ~** ](https://diccionariolibre.com/definicion/Olla) to be poor, penniless, or broke: _Crees que si estuviera cueriando yo **estuviera en olla**_; [Yo, cuando veo una gente que siempre **está en olla** diciendo mañana es viernes y el cuerpo lo sabe](https://www.instagram.com/reel/CsrCgjJtfs0/?utm_source=ig_web_copy_link)
+- **¡ay ombe!** expression of dismay

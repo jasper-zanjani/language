@@ -1,0 +1,5 @@
+- [**el final**](https://www.que-quiere-decir.com/el-final/) the greatest, worst, most superlative: _tu eres **el final**_
+- **flow**{: #flow } swag, style, attractive manner of dress: *mangar este **flow***
+- **fresco** a person who is cheeky or rude, typically regarding sexual topics: *lo bloqué por **frescos***
+- **fronteo** display, showing off (from [**frontear**](https://www.asale.org/damer/frontear))
+    - [ An example from Instagram showing someone showing off diapers and baby supplies: "nuevo fronteo"](https://www.instagram.com/reel/Cwpo4z5u6oV/)

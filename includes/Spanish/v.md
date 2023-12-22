@@ -1,0 +1,4 @@
+- **vaca** *ven acá*
+- **vaina** stuff, thing; whatever; etc
+- **vale** well, quite: _yo me sentí vale rara_ "I felt pretty weird"
+- **votar** to stop liking someone: *Tengo que mantenerme para que no me **votes***

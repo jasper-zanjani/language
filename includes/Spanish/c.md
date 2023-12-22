@@ -1,0 +1,18 @@
+- **celar** (from _celoso_, cf. _estar con celos_) to become jealous : [*Yo con celos, pero chisme es chisme*](https://www.instagram.com/p/Csols7kuBgJ/); _A veces me digo "no seas celosa Tatiana" pero como no me llamo Tatiana pues **celo** cuando me da mi gana_
+- **chancear** [give somebody a chance](https://www.spanishdict.com/translate/chancear), [court](https://diccionariolibre.com/definicion/chancear) someone
+- [**chavo**](https://www.asale.org/damer/chavo) youth, young man (also  **chava** for young woman)
+- [**cherchoso**](https://www.asale.org/damer/cherchoso) teasing or mocking person
+- **chin**{: #chin } a [little bit](https://diccionariolibre.com/definicion/Chin)
+- **chulo**{: #chulo }: very handsome; a man who is knowingly in a relationship with a woman who is a prostitute, and who is supported by her
+- **chuqui** to be [irritable, angry](https://wikidominicana.com/chucky/) (also _chucky_); **andar ~ en la calle** to party in the streets
+- [**cocotazo**](https://diccionariolibre.com/definicion/cocotazo) a smack on the head
+- [**clavarse**](https://www.asale.org/damer/clavar) to have sex: [*Cuando te veniste 3 veces pero él te la sigue **clavando** como si nada*](https://www.instagram.com/p/CtPGcwvLY97/); [*Esta triste por que no ha **clavado***](https://www.instagram.com/p/CtC5J6fPagP/)
+- **cogerse la llamada** to pick up a phone call: _**Cogeme la llamada** que tú eres mía todavía_
+- **como rayos** "how in the world", "how the hell": *Y **cómo rayos** tú te comes esta vaina amarga yo detesto esa fruta*
+- **dar cotorra** to flirt with someone: [_Yo, viendo como un pana le está **dando cotorra** a la tipa que me estoy comiendo toda las noche_](https://www.instagram.com/reel/CqBl6fkDQyD)
+- [**cría**](https://www.asale.org/damer/cr%C3%ADa): [*Mi novia platicándome su día y diciendo todo lo que hizo.. Yo pensando en las **crías** que le voy a hacer cuando nos casemos*](https://www.instagram.com/reel/CuIm_yaOoWR/)
+- [**cruda**](https://www.asale.org/damer/cruda) hangover
+- **cualto** money, payment
+- **cueriar** (from _cuero_ "prostitute") to prostitute oneself: _Crees que si estuviera **cueriando** yo estuviera en olla_
+- **cuernos**; [**pegar ~**](https://diccionariolibre.com/definicion/pegar-cuernos), [**ponerse ~**](https://spanish.stackexchange.com/questions/17904/why-in-spanish-putting-horns-means-to-cheat-your-partner) to cheat on a partner: *cuando te den ganas de **pegar un cuernito** tirame*
+- **cara de culo** a serious or grave face (cf. "resting bitch face")

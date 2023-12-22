@@ -1,0 +1,1 @@
+- [**quillarse**](https://diccionariolibre.com/definicion/quillarse) to become annoyed, bothered, angry

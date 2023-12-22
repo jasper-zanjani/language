@@ -1,0 +1,8 @@
+- [**dame banda**](https://casadecampoliving.com/dominican-english-dictionary-dar-banda/) expression used to end the current topic of discussion out of exasperation: "leave me alone, do what you want"
+- **dar mente a algo** to mind, worry about something: _Pero no le **de mente** a eso bebé_
+- **de día** _estar ~_ to be daytime: _**Está de día** en tu país?_
+- **desodorante** deodorant
+- [**diache**](https://www.asale.org/damer/%C2%A1diache!), [**diañe**](https://www.asale.org/damer/%C2%A1dia%C3%B1e!) (euphemism for *diablo*) expression of surprise 
+- **diligencia** _hacer ~_ when said by a woman, euphemism for prostitution
+- **domingo 7**{: #domingo-7 } pregnancy outside of marriage, especially one abandoned by the father: _no me dejes con un **domingo 7** y te vallas por ray jjj_
+- **drin** bar (from English "drink")

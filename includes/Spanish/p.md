@@ -1,0 +1,24 @@
+- [**pajearse**](https://diccionariolibre.com/definicion/pajearse) to masturbate (see also [tocación](#tocacion)): _Paola **se pajió** con pilón de la cocina y ahora el Toto le sabe a ajo_
+- **pana** [friend](https://diccionariolibre.com/definicion/pana): [_Yo, viendo como un **pana** le está dando cotorra a la tipa que me estoy comiendo toda las noche_](https://www.instagram.com/reel/CqBl6fkDQyD)
+- **papa de la barriga**
+- **paquetero**{: #paquetero } a [liar](https://www.asale.org/damer/paquetero), braggart
+- **parar** to end up in a place without intending to do so
+- **pariguayo** [lame guy](https://diccionariolibre.com/definicion/Pariguayo) who can't get girls
+- **pasola** [scooter](https://diccionariolibre.com/definicion/pasola)
+- [**patana**](https://www.asale.org/damer/patana) semi, tractor-trailer
+- **pedazo** place, corner, or neighborhood of a city
+- **peluché** pretty, attractive
+    - _Me quiere preña?<br/>Pa que salga bonito<br/>Tu no lo va a mantener ni naa<br/>Nama e paa que salga **peluche**_
+- **perico** cocaine
+- [**pica pollo**](https://diccionariolibre.com/definicion/pica-pollo) fried chicken
+- [**picadera**](https://www.asale.org/damer/picadera) snack
+- **pique** (**estar con ~**, **tener ~**) to be angry or upset: _estoy con **pique**_
+- **tirar piropos** to use pick-up lines: _Me **tiran piropos** pero no se como se llama a eso_
+- **planta**{: #planta } compliment for a woman: ***planta** de mujer*
+- [**poloché**](https://www.asale.org/damer/poloche){: #poloche } t-shirt
+- [**polera**](https://www.asale.org/damer/polera) t-shirt
+- **polvo** a round of sex ending in male ejaculation: _Un **polvo** aquí y mínimio se me reinicia la vida_; _Mija edúcate que un viejito que te de 1500 por **polvo** no es un suggar daddy_
+- **popola** pussy (cf. [**toto**](#toto), [**creta**](#creta))
+- **porrito** joint
+- [**preña**](https://diccionariolibre.com/definicion/pre%C3%B1a) pregnant (from English "pregnant"); **preñar** to impregnate: _Me quiere **preña**?_
+- [**tirar puya**](https://diccionariolibre.com/definicion/tirar-puyas) to be indirect with another person

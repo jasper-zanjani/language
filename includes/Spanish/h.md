@@ -1,0 +1,1 @@
+- **hacerse caso**: *si no tienen dinero no **les hagas caso**, ellos tampoco **te harían caso** si fueras fea*

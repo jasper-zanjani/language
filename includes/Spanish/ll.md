@@ -1,0 +1,1 @@
+- **llevarse**: _son 17 que **me llevas**_ "You're 17 [years] older than me"; *y **llevas** mucho sin tener relaciones?*

@@ -1,0 +1,2 @@
+- **laja**{: #laja } something highly used and worn out, i.e. _estoy buscando una laja de esas_
+- **loquiar** to hang out, pass the time: _Solo [vamos] a pasarnos el rato juntas **loquiando**_
