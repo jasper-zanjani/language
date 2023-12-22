@@ -274,6 +274,8 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 
     Like with other earned titles, the title of Bachiller has to undergo **legalización** or certification through the Ministry of Higher Education, Science, and Technology (Mescyt), a process which has no equivalent in the US.
 
+    Course selection in universities (i.e. "registration") is referred to as **selección de matérias**, where **matéria** refers to a course or class in its entirety. **Clase** cannot be used in this context and refers only to the individual class sessions or lectures.
+
 #### Social media
 :   
     - **etiquetar** to tag: *busco a tu hermana, **etiquetamela***
