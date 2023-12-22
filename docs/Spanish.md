@@ -174,6 +174,16 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 :   
     --8<-- "includes/Spanish/y.md"
 
+## Readings
+
+
+*[gitano]: gypsy
+*[gorrión]: sparrow
+*[montaraz]: ranger
+
+> Un gitano corpulento, de barba montaraz y manos de gorrión, que se presentó con el nombre de Melquíades, hizo una truculenta demostración pública de lo que él mismo llamaba la octava maravilla de los sabios alquimistas de Macedonia.
+> Fue de casa en casa arrastrando dos lingotes metálicos, y todo el mundo se espantó al ver que los calderos, las pailas, 
+
 ## Themes
 
 #### Body measurements
