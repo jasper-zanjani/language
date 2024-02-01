@@ -46,6 +46,9 @@
 - Karma
     - **lo que da vueltas vuelve**, **lo que se siembra, se cosecha**, **todo aquello que se da mas tarde se recibe**, **uno recibe lo que da**: what goes around, comes around
 
+- Misfortune
+    - **levantarse/empezar con el pie izquierdo** to start on the wrong foot
+
 - Patience
     - [**sentar las bases**](https://www.linguee.com/english-spanish/translation/lay+the+foundations.html) to lay the foundations
     - **poner el carro delante del caballo** to put the cart before the horse
