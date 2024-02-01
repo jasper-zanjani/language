@@ -78,104 +78,114 @@ But a class of verbs seeming to deal with inner state appear to be conjugated in
 - salirse: [* casi **se le sale** el alma *](https://www.instagram.com/reel/CtsISizgMVl)
 - complicarse: ***Se me complicó** algo, no me gusta quedar mal da vergüenza*
 
-## Dominican vocabulary
+## Vocabulary
 
 *[SFM]: San Francisco de Macoris
 
-#### A
-:   
-    --8<-- "includes/Spanish/a.md"
 
-#### B
-:   
-    --8<-- "includes/Spanish/b.md"
+--8<-- "includes/Spanish/a.md"
 
-#### C
-:   
-    --8<-- "includes/Spanish/c.md"
+---
 
-#### D
-:   
-    --8<-- "includes/Spanish/d.md"
-
-#### E
-:   
-    --8<-- "includes/Spanish/e.md"
+--8<-- "includes/Spanish/b.md"
 
 
-#### F
-:   
-    --8<-- "includes/Spanish/f.md"
+---
+
+--8<-- "includes/Spanish/c.md"
 
 
-#### G
-:   
-    --8<-- "includes/Spanish/g.md"
+---
+
+--8<-- "includes/Spanish/d.md"
 
 
-#### H
-:   
-    --8<-- "includes/Spanish/h.md"
+---
+
+--8<-- "includes/Spanish/e.md"
 
 
-#### J
-:   
-    --8<-- "includes/Spanish/j.md"
+---
 
-#### L
-:   
-    --8<-- "includes/Spanish/l.md"
+--8<-- "includes/Spanish/f.md"
 
 
-#### Ll
-:   
-    --8<-- "includes/Spanish/ll.md"
+---
 
-#### M
-:   
-    --8<-- "includes/Spanish/m.md"
+--8<-- "includes/Spanish/g.md"
 
 
-#### N
-:   
-    --8<-- "includes/Spanish/n.md"
+---
+
+--8<-- "includes/Spanish/h.md"
 
 
-#### O
-:   
-    --8<-- "includes/Spanish/o.md"
+---
 
-#### P
-:   
-    --8<-- "includes/Spanish/p.md"
+--8<-- "includes/Spanish/j.md"
 
 
-#### Q
-:   
-    --8<-- "includes/Spanish/q.md"
+---
+
+--8<-- "includes/Spanish/l.md"
 
 
-#### R
-:   
-    --8<-- "includes/Spanish/r.md"
+---
+
+--8<-- "includes/Spanish/ll.md"
 
 
-#### S
-:   
-    --8<-- "includes/Spanish/s.md"
+---
 
-#### T
-:   
-    --8<-- "includes/Spanish/t.md"
+--8<-- "includes/Spanish/m.md"
 
 
-#### V
-:   
-    --8<-- "includes/Spanish/v.md"
+---
 
-#### Y
-:   
-    --8<-- "includes/Spanish/y.md"
+--8<-- "includes/Spanish/n.md"
+
+
+---
+
+--8<-- "includes/Spanish/o.md"
+
+
+---
+
+--8<-- "includes/Spanish/p.md"
+
+
+---
+
+--8<-- "includes/Spanish/q.md"
+
+
+---
+
+--8<-- "includes/Spanish/r.md"
+
+
+---
+
+--8<-- "includes/Spanish/s.md"
+
+
+---
+
+--8<-- "includes/Spanish/t.md"
+
+
+---
+
+--8<-- "includes/Spanish/v.md"
+
+
+---
+
+--8<-- "includes/Spanish/y.md"
+
+
+---
 
 ## Readings
 
