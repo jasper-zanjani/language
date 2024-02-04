@@ -127,6 +127,7 @@ Various [definite articles](https://www.howtocreole.com/2015/12/learn-haitian-cr
 
 ---
 
+- **jodi a** today
 - **jwenn** to find : _Eske ou poko **jwenn** lot tifi metew sou group_
 
 ---
