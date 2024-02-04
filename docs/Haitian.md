@@ -119,6 +119,7 @@ Various [definite articles](https://www.howtocreole.com/2015/12/learn-haitian-cr
 
 - **gen** to have : _Li **gen** youn sak_
 - **gou** to taste, have a taste, to be delicious : _Fok ou aprann mange mange haïtienne yo wi yo **gou** anpil_
+- **grangou** hungry
 
 ---
 
