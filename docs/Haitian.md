@@ -250,6 +250,7 @@ Various [definite articles](https://www.howtocreole.com/2015/12/learn-haitian-cr
 - **Bonjou**
 - **Bonswa**
 - Kijan ou ye? Kouman ou ye? Ou anfòm?
+    - Anfòm Gras a Dye e ou menm?
 - Mwen byen e ou menm?
 - Kisa ou ap fè jodia?
 
@@ -268,6 +269,7 @@ Various [definite articles](https://www.howtocreole.com/2015/12/learn-haitian-cr
 - **Mwen pa konprann**
 - **Kisa mo sa vle di?**
 - **Kisa ou te mande mwen?**
+- **Èske ou ka prezentèw pou nòt vwa? mvle koute**
 
 #### Directions
 
