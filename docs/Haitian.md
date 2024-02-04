@@ -16,7 +16,7 @@ In this sense it is not to be confused with the third-person plural pronoun **yo
 
 Haitian tense and mood are indicated by particles that precede the verb, which is not conjugated.
 
-- **ap** progressive, indicating continuing action : _Li **ap** aprann kreyòl_
+- **ap** progressive, indicating continuing action. Abbreviated to **p** it often appears appended to the abbreviated subject pronoun:   : _Li **ap** aprann kreyòl_ ; _Wi **mp** f sa_ ; _Siw malad **mpap** ka ww_ ; _Fèm wè siw reyèl avan epi **mp** fw rankontre yo_
 - [**dwe**](https://www.wordhippo.com/what-is/the-meaning-of/haitian-creole-word-713438e7a6ae36604318a030d06b0790046b3d94.html) should : _ou **dwe** pale trè tou senpleman, tankou si w ap pale ak yon timoun_
 - **ka** can : _Èske ou **ka** ede mwen?_
 - **pral** immediate future : _M **pral** fè l_, _M**pral** benyen talè_
