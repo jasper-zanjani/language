@@ -226,6 +226,23 @@ Various [definite articles](https://www.howtocreole.com/2015/12/learn-haitian-cr
 - **wè** (**w**) to see : _Relem kol video poum **wè**w_ ; _Siw malad mpap ka **w**w_ ; _Èske ou te wè **figi**m?_
 
 
+#### Question words
+
+- **ki bò** where
+- **kilè** when
+- **ki sa** what
+- **kijan** how
+- **ki kote** where
+- **ki moun** who
+- **kiyès** who
+- **poukisa** why
+- **kouman** how
+
+#### Modal verbs
+
+- **bezwen** to need to, to have to _Poukisaw **bezwen** pale kreyol?_
+- **eseye** to try _èske wap eseye emigre nan Etazini la?_
+
 ## Tasks
 
 #### Greeting
