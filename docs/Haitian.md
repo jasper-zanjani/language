@@ -160,6 +160,7 @@ Various [definite articles](https://www.howtocreole.com/2015/12/learn-haitian-cr
 - **mo** word
 - **moman** moment : _**moman** sa la_ for the moment
 - **moun** person, people : _Yon sèl **moun** sifi pou aprann ou_
+- **mpoko** never, ever : ?
 - **mwen** (**m**) I, me : _***m**diw fè**m** wèw pa kol video_
 
 ---
