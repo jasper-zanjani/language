@@ -56,6 +56,7 @@
     - **el que persevera alcanza** ([Mateo 24:13](https://www.biblegateway.com/passage/?search=Mateo+24%3A13&version=RVR1995))
     - ? you have to walk before you run
     - **más vale pájaro en mano que ciento volando** a bird in the hand is worth two in the bush
+    - **La llama que arde el doble de brillante dura la mitad de tiempo.** The flame the burns twice as bright burns half as long.
 
 - Resourcefulness
     - [**cuando se quiere se puede**](https://www.instagram.com/p/Cv75rFxuq2t/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) where there's a will there's a way
