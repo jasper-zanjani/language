@@ -3,6 +3,7 @@
 - **papa de la barriga**
 - **paquetero**{: #paquetero } a [liar](https://www.asale.org/damer/paquetero), braggart
 - **parar** to end up in a place without intending to do so
+- **parecerse** to resemble: _Y tanto que [tu hija] **se parece** a ti jaja_; _**Se parecen** igualitos_
 - **pariguayo** [lame guy](https://diccionariolibre.com/definicion/Pariguayo) who can't get girls
 - **pasola** [scooter](https://diccionariolibre.com/definicion/pasola)
 - [**patana**](https://www.asale.org/damer/patana) semi, tractor-trailer
