@@ -46,23 +46,9 @@
 - Karma
     - **lo que da vueltas vuelve**, **lo que se siembra, se cosecha**, **todo aquello que se da mas tarde se recibe**, **uno recibe lo que da**: what goes around, comes around
 
-- Misfortune
-    - **levantarse/empezar con el pie izquierdo** to start on the wrong foot
+    === "Kindness"
 
-- Patience
-    - [**sentar las bases**](https://www.linguee.com/english-spanish/translation/lay+the+foundations.html) to lay the foundations
-    - **poner el carro delante del caballo** to put the cart before the horse
-        - **empezar la casa por el tejado**
-    - **el que persevera alcanza** ([Mateo 24:13](https://www.biblegateway.com/passage/?search=Mateo+24%3A13&version=RVR1995))
-    - ? you have to walk before you run
-    - **más vale pájaro en mano que ciento volando** a bird in the hand is worth two in the bush
-    - **La llama que arde el doble de brillante dura la mitad de tiempo.** The flame the burns twice as bright burns half as long.
-
-- Resourcefulness
-    - [**cuando se quiere se puede**](https://www.instagram.com/p/Cv75rFxuq2t/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) where there's a will there's a way
-
-- Temporality
-    - **todo viene y todo va**
+        **más moscas se cazan con la miel que con la hiel** you catch more flies with honey than with vinegar
 
 ## Grammar
 
