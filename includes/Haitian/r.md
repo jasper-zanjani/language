@@ -1,0 +1,7 @@
+- **rankontre** to meet: _Mwen ta renmen **rankontre** ou an pèsòn_ ; _Ou ta ka ede m **rankontre** lòt fi tou?_
+- **regrèt** to apologize, be sorry, regret
+- **rele** to be named : _Kijan ou **rele**?_, _Li **rele** Salvador_ ; to call : _**Rele**m kol video poum wèw_ 
+- **renmen** to like, love: _Mwen ta **renmen** rankontre ou an pèsòn_, _Èske ou ta **renmen** manje youn bagay?_
+- **reponn** to respond
+- **rete** to stay, remain
+- **ront** to blush : _Wap fèm **ront**_

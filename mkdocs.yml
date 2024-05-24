@@ -1,6 +1,6 @@
 site_name: Language
 site_url: https://jasper-zanjani.github.io/language
-site_dir: site
+site_dir: /home/jasper/Documents/mkdocs/language
 theme:
   name: material
   favicon: img/logo.png

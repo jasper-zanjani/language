@@ -25,30 +25,61 @@
     Note that _Qué lo que_ often appears in chat as 'klk' or 'qlok'
     Both men and women can be addressed as _manito_/_manita_, _loco_/_loca_, i.e. "Qué lo que manito?", etc.
 
-## Phrases
+??? info "Phrases"
 
-- **from now on** de aquí en adelante
-- **just in case** por si acaso
+    === "Bravery"
 
-- Bravery
-    - ? to the winner go the spoils
-    - **quien no arriesga, no gana** he who dares, wins
+        ?: "to the winner go the spoils"
+        **quien no arriesga, no gana** "he who dares, wins"
 
-- Chaos
-    - **cuando me levanto por la noche para beber agua y las cosas se salen un poco de control** "when I wake up at night to drink water and things **get out of hand**"
+    === "Chaos"
 
-- Failure
-    - [**quedarse sin el pan y sin el queso**](https://www.wordreference.com/es/en/translation.asp?spen=quedarse%20sin%20el%20pan%20y%20sin%20el%20queso) to end up empty-handed
+        **cuando me levanto por la noche para beber agua y las cosas se salen un poco de control** "when I wake up at night to drink water and things **get out of hand**"
 
-- Gluttony
-    - [**comer como una lima nueva**](https://12y2.com/2013/comer-mas-que-una-lima-nueva/)
+    === "Failure"
 
-- Karma
-    - **lo que da vueltas vuelve**, **lo que se siembra, se cosecha**, **todo aquello que se da mas tarde se recibe**, **uno recibe lo que da**: what goes around, comes around
+        [**quedarse sin el pan y sin el queso**](https://www.wordreference.com/es/en/translation.asp?spen=quedarse%20sin%20el%20pan%20y%20sin%20el%20queso) to end up empty-handed
+
+    === "Gluttony"
+
+        [**comer como una lima nueva**](https://12y2.com/2013/comer-mas-que-una-lima-nueva/)
+
+    === "Karma"
+
+        **lo que da vueltas vuelve**, **lo que se siembra, se cosecha**, **todo aquello que se da mas tarde se recibe**, **uno recibe lo que da**: what goes around, comes around
 
     === "Kindness"
 
         **más moscas se cazan con la miel que con la hiel** you catch more flies with honey than with vinegar
+
+    === "Misfortune"
+
+        **levantarse/empezar con el pie izquierdo**: "to start on the wrong foot"
+
+    === "Patience"
+
+        [**sentar las bases**](https://www.linguee.com/english-spanish/translation/lay+the+foundations.html) to lay the foundations
+
+        **poner el carro delante del caballo**, **empezar la casa por el tejado**: "to put the cart before the horse"
+
+        **el que persevera alcanza** ([Mateo 24:13](https://www.biblegateway.com/passage/?search=Mateo+24%3A13&version=RVR1995))
+
+        ? "you have to walk before you run"
+
+        **más vale pájaro en mano que ciento volando**: "a bird in the hand is worth two in the bush"
+
+        **la llama que arde el doble de brillante dura la mitad de tiempo**: "the flame that burns twice as bright burns half as long"
+
+    === "Resourcefulness"
+        
+        **cuando se quiere se puede** "where there's a will there's a way" (1)
+        { .annotate }
+
+        1. [![](Cv75rFxuq2t.png)](https://www.instagram.com/p/Cv75rFxuq2t)
+
+    === "Temporality"
+
+        **todo viene y todo va**
 
 ## Grammar
 

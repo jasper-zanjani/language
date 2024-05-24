@@ -1,0 +1,16 @@
+- **ka**, **kapab** to be able, can : _ou ta **ka** ede m rankontre lòt fi tou?_
+- **ke** that : _Se konsa, mwen te sanble **ke** ou pa t renmen koreksyon mwen an_
+- **kèk** some (cf. French _quelque_): _Mwen renmen lang e mwen aprann **kèk**_
+- **ki** what; that
+- **kiyès** who
+- **ki kote** where
+- **kijan** how
+- **kilè** when
+- **kisa** what
+- **kol** call ; _**kol** video_
+- **koman**, **kouman** how : _**kouman** ou ye?_
+- **konprann** to understand
+- **konnen** to know
+- **kraze** to have sex (not to be confused with _kwaze_)
+- **kwaze** to meet with someone
+- **kwè** to believe : _Te **kwè** mw diw yo nan brek pou moman sa la_

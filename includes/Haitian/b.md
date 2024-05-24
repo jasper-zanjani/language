@@ -1,0 +1,5 @@
+- **benyen** to bathe, take a bath : _Mpral **benyen** talè_
+- **bezwen** to need : _Poukisaw **bezwen** pale kreyol?_
+- **bliye** to forget : _Pa **bliye** mw pa pale anglais_
+- **bonswa** (**bnswa**)
+- **bwè** to drink

@@ -1,0 +1,6 @@
+- **fache** angry
+- **fè** (**f**) to do : _Mkonnen mdiw **fè**m wèw pa kol video_
+    - **~ bagay** to have sex
+- **figi** face : _Èske ou te wè **figi**m?_
+- **fòk** must : _**Fok** ou aprann mange mange haïtienne yo wi yo gou anpil_
+- **fraz** sentence

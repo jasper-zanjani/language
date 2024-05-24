@@ -1,0 +1,6 @@
+- **abite** to live
+- **ak** with (cf. French _avec_)
+- [**alò**](https://en.wiktionary.org/wiki/al%C3%B2) so, thus, therefore, accordingly
+- **anba** under: _Elifèt te **anba** tab la_
+- **ankò** again : _Lè sa a, nou pral pale **ankò** lè yo tounen soti nan repo ak lè ou prezante m 'nan kèk nan yo_
+- **aprann** to learn : _Li ap **aprann** pale kreyòl_ ; to teach _Kiyes kap **aprann** ou_

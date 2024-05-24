@@ -1,0 +1,5 @@
+- **lajan** money : _èskew ka voyem **lajan**?_
+- **lè** when
+- **lè sa a** then
+- **li** he/she
+- **lòt moun** others

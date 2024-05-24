@@ -1,0 +1,5 @@
+- **tab** table: _Elifèt te anba **tab** la_ "Elifèt was under the **table**"
+- **talè** soon : _Mpral benyen **talè**_
+- **tanpri** please
+- **te** past marker (cf. French _était_): _Elifèt **te** anba tab la_ "Elifèt **was** under the table"
+- **travay** to work

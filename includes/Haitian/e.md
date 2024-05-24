@@ -1,0 +1,7 @@
+- **ede** to help : _ou ta ka **ede** m rankontre lòt fi tou?_
+- **ekril** to write
+- **entèlijan** intelligent
+- **epi** but : _Mwen pa konprann kreyòl. **Epi** ou ekril!_
+- **eske** that : _Li vle di **eske** saw di a se yon verite_
+- **evre** ok ??
+- **Etazini** United States

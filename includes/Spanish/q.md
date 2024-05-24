@@ -1,1 +1,2 @@
+- **Q.E.P.D.** (que en paz descanse) rest in peace
 - [**quillarse**](https://diccionariolibre.com/definicion/quillarse) to become annoyed, bothered, angry

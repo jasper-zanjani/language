@@ -1,0 +1,2 @@
+- Visual Studio power hacks
+    - tasks

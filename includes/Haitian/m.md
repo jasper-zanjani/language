@@ -1,0 +1,7 @@
+- **mande** to ask : _Kisa ou te **mande**m_
+- **men** but
+- **mo** word
+- **moman** moment : _**moman** sa la_ for the moment
+- **moun** person, people : _Yon sèl **moun** sifi pou aprann ou_
+- **mpoko** never, ever : ?
+- **mwen** (**m**) I, me : _***m**diw fè**m** wèw pa kol video_

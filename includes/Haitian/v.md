@@ -1,0 +1,4 @@
+- **viv** to live : _wap **viv** pou kont ou?_
+- **vle** to want : _Mwen **vle** aprann kreyòl_
+- **voye** to send : _èskew ka **voye**m lajan?_
+- **vwayaje** to travel
